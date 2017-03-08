@@ -4,8 +4,6 @@ In this hands-on workshop we are going to learn about GraphQL and how to build a
 
 ## Getting Started
 
-After [downloading this example](https://github.com/graphcool-examples/angular-apollo-instagram-example/archive/master.zip) please follow these steps.
-
 ### 1. Create an account
 
 To run this example, please create a [graph.cool](http://graph.cool) account and **copy your endpoint**. This shouldn't take longer than a minute. We promise!
